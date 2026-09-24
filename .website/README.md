@@ -1,4 +1,8 @@
 ---
+genres:
+  - racing
+  - sports
+  - arcade
 directors_cut: https://frutal.pt/js13k-2024/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
